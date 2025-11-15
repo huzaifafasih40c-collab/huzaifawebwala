@@ -1,0 +1,27 @@
+/*a,
+p {
+background-color: blue;
+color: white;
+} */
+
+/* a.ref-groups {
+    backgroud-color: pink;
+} */
+ a {
+    background-color: blue;
+    color: white;
+}
+  p {
+   background-color: pink;
+  }
+
+ /* a {
+   background-color: yellow;
+   color: white;
+} */
+
+ h2#heading-1 {
+    background-color: yellow;
+ }
+
+
