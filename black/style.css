@@ -1,0 +1,9 @@
+div.parents{
+    display: grid;
+    height: 250px;
+    width: 250px;
+    background-color: green;
+    grid-template-columns: minmax(5,2fr);
+    padding: 1px;
+    
+}

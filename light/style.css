@@ -1,0 +1,29 @@
+div > div.box {
+    width: 250px;
+    height: 250px;
+    background-color: red;
+    /* margin: 2px; */
+    border: 1px solid rgb(229, 255, 0);
+    font-size: 30px;
+    color: rgb(253, 253, 253);
+}
+
+div.parent {
+    height: 500px;
+    align-items: center;
+    /* flex-direction: row-reverse; */
+    flex-direction: column;
+    display: flex;
+    /* flex-direction: row; */
+    justify-content: center;
+    /* /* justify-content: space-between; */
+    justify-content: flex-start; 
+    /* justify-content: space-evenly; */
+    /* justify-content: flex-start; */
+    flex-wrap: wrap;
+    background-color:rgb(0, 0, 0);
+}
+
+/* div.parents{
+    display: grid;
+} */
